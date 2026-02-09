@@ -1,0 +1,25 @@
+sub,run,score,type
+18,1,5,Carico mentale del compito
+18,1,0.305555555555556,Frustrazione percepita
+18,1,4.99305555555556,Carico temporale del compito
+18,1,0.513888888888889,Carico fisico del compito
+18,1,8.5625,Prestazioni raggiunte
+18,1,7.22916666666667,Sforzo applicato
+18,2,1.97222222222222,Carico mentale del compito
+18,2,0.131944444444445,Frustrazione percepita
+18,2,5.32638888888889,Sforzo applicato
+18,2,0.229166666666666,Carico fisico del compito
+18,2,0.930555555555556,Carico temporale del compito
+18,2,8.51388888888889,Prestazioni raggiunte
+18,3,5.74305555555556,Sforzo applicato
+18,3,0.541666666666666,Carico fisico del compito
+18,3,1.0625,Carico temporale del compito
+18,3,9.625,Prestazioni raggiunte
+18,3,5,Carico mentale del compito
+18,3,0.486111111111111,Frustrazione percepita
+18,4,4.28472222222222,Sforzo applicato
+18,4,0.256944444444445,Carico temporale del compito
+18,4,0.194444444444444,Frustrazione percepita
+18,4,8.40972222222222,Prestazioni raggiunte
+18,4,2.18055555555556,Carico mentale del compito
+18,4,0.131944444444445,Carico fisico del compito
