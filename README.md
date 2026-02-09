@@ -77,6 +77,6 @@ If you use this code or data in your work, please cite the associated paper:
   title   = {Understanding mechanisms of voluntary engagement of mental effort using active inference},
   author  = {Maramotti, Riccardo and Parr, Thomas and Tondelli, Manuela and Ballotta, Daniela and Manohar, Sanjay G. and Zamboni, Giovanna and Pagnoni, Giuseppe},
   journal = {Cognitive, Affective, and Behavioral Neuroscience},
-  year    = {2024},
+  year    = {2026},
   note    = {Special Issue: Neuroscience of Effort}
 }
