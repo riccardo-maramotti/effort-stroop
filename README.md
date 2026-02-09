@@ -1,5 +1,3 @@
-## Repository overview
-
 This repository contains the data and code used to produce the results reported in the paper:
 
 **Maramotti R., Parr T., Tondelli M., Ballotta D., Manohar S. G., Zamboni G., and Pagnoni G.**  
@@ -44,21 +42,22 @@ This folder contains the results reported in the paper. It includes two subfolde
   Results of the inversion of the active inference (POMDP) model for each participant.
 
 - `recovery analysis/`  
-  Simulated data sampled from the generative model using the estimates in `POMDP estimates/` as priors. This data was used for the posterior predictive checks and parameter recovery analysis reported in the supplementary materials.
+  Simulated data sampled from the generative model using the estimates in `POMDP estimates/` as priors. This data was used for the parameter recovery analysis reported in the supplementary materials.
 
 ---
 
 ### `scripts/`
 
-This folder contains all scripts required to reproduce the analyses presented in the paper. It includes two subfolders:
+This folder contains four scripts required to reproduce the analyses presented in the paper:
 
-- `POMDP estimates/`  
-  Scripts for:
-  - inverting the active inference model for each participant using data from the `data/` folder;
-  - performing the group-level analysis using Parametric Empirical Bayes (PEB).
+- `train_POMDP_model_EXR.m` and `train_POMDP_model_RLX.m`  
+  Scripts for inverting the active inference model for each participant using data from the `data/` folder.
+ 
+- `group_level_analysis_PEB.m`  
+  Script for performing the group-level analysis using Parametric Empirical Bayes (PEB).
 
-- `recovery analysis/`  
-  Scripts used for the posterior predictive checks and parameter recovery analysis reported in the supplementary materials.
+- `simulations_for_parameter_recovery.m`  
+  Script used to simulate the data used in the parameter recovery analysis reported in the supplementary materials.
 
 ---
 
