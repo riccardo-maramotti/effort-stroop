@@ -242,7 +242,7 @@ for i = subjects
     Z.Ep = Ep;
     Z.Cp = Cp;
     Z.F = Fvec;
-    save('Z_EXR_allSubj','Z')
+    save('../results/POMDP estimates/Z_EXR_allSubj','Z')
 end
 
 
