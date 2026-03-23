@@ -74,9 +74,11 @@ If you use this code or data in your work, please cite the associated paper:
 
 ```bibtex
 @article{Maramotti2026,
-  title   = {Understanding mechanisms of voluntary engagement of mental effort using active inference},
-  author  = {Maramotti, Riccardo and Parr, Thomas and Tondelli, Manuela and Ballotta, Daniela and Manohar, Sanjay G. and Zamboni, Giovanna and Pagnoni, Giuseppe},
-  journal = {Cognitive, Affective, and Behavioral Neuroscience},
-  year    = {2026},
-  note    = {Special Issue: Neuroscience of Effort}
+  title = {Understanding Mechanisms of Voluntary Engagement of Mental Effort Using Active Inference},
+  author = {Maramotti, Riccardo and Parr, Thomas and Tondelli, Manuela and Ballotta, Daniela and Manohar, Sanjay G. and Zamboni, Giovanna and Pagnoni, Giuseppe},
+  date = {2026-03-16},
+  journal = {Cognitive, Affective, \& Behavioral Neuroscience},
+  issn = {1531-135X},
+  doi = {10.3758/s13415-026-01419-z},
+  url = {https://doi.org/10.3758/s13415-026-01419-z},
 }
